@@ -1,0 +1,23 @@
+#o{
+    width: 500;
+    height: 600;
+}
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+#wimpy{
+    width: 600;
+    height: 700;
+}
+#enid{
+    width: 500;
+    height: 500;
+}
+#img{
+    background-color: chartreuse;
+}
+#wimp{
+    width: 700;
+    height: 900;
+}
